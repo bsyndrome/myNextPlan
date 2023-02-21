@@ -1,0 +1,5 @@
+Rencana Paket B:
+- Lokasi PKBM
+- Legalitas PKBM
+- Transportasi PKBM
+- Mengatur waktu Kejar Paket + Kerja Shift Malam
