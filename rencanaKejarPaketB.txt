@@ -3,7 +3,12 @@ Rencana Paket B:
   = Lokasi gedung PKBM
 
 - Legalitas PKBM
-  = Nomer izin
+  = Surat Izin
 
-- Transportasi PKBM
-  = Sepeda Lipat.
+- Transportasi
+  = Sepeda Lipat
+  = Gojek
+
+- Uang Transport
+
+- Mengatur waktu Kejar Paket + Kerja Shift Malam
