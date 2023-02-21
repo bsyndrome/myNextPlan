@@ -6,4 +6,6 @@ Rencana Paket B:
 
 - Transportasi PKBM
 
+- Uang Transport
+
 - Mengatur waktu Kejar Paket + Kerja Shift Malam
