@@ -1,9 +1,10 @@
 Rencana Paket B:
 - Lokasi PKBM
   = Lokasi gedung PKBM
+  = Jenis Bangunan
 
 - Legalitas PKBM
-  = Surat Izin
+  = NOMER
 
 - Transportasi
   = Sepeda Lipat
